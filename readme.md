@@ -19,6 +19,21 @@
 ```
 `ejemplo de parrafo ejemplo de parrafo ejemplo de parrafo ejemplo de parrafo ejemplo de parrafo ejemplo de parrafo ejemplo de parrafo`
 
+> [!NOTE]
+> Esto es una nota.
+
+> [!WARNING]
+> Esto es una advertencia.
+
+> [!IMPORTANT]
+> Esto es importante.
+
+> [!TIP]
+> Esto es una sugerencia.
+
+> [!CAUTION]
+> Cuidado, corre pequeña.
+
 * uno
   * sub uno
   * sub dos
