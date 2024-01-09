@@ -32,7 +32,7 @@
 > Esto es una sugerencia.
 
 > [!CAUTION]
-> Cuidado, corre pequeña.
+> Cuidado, corre pequeña :o.
 
 * uno
   * sub uno
